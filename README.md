@@ -1,10 +1,10 @@
-# Live Demo of Project
-
-https://portfolio-website-by-prayag2002.netlify.app/
-
 # Personal Portfolio Website
 
 A one-page personal portfolio website showcasing skills, projects, and achievements.
+
+## Live Demo of Project
+
+https://portfolio-website-by-prayag2002.netlify.app/
 
 ## Features
 
